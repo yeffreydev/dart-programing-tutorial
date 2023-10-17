@@ -3,14 +3,14 @@
 - Author: Mahdi Mirzadeh
 - url: https://www.youtube.com/watch?v=c-ydMfJNfyY
 
-Progress: 1:09 / 7:09:46
+Progress: 14:22 / 7:09:46
 
 TODOS
 
 - [x] Introduction to this Course
 - [x] Dartpad.dev & mathematical
 - [x] Variables
-- [ ] const & final
+- [x] const & final
 - [ ] Choose good names!
 - [ ] Let's install dart and vscode
 - [ ] Dynamic type

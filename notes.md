@@ -40,3 +40,9 @@ with num type, i can store integer and double values; example: `num myValue=10` 
 Dart is a smart, you can use `var` keyword andn dart know what is your data type for example: `var noType = 1;` so when `print(noType)`
 
 creating a calculator
+
+## const & final
+
+use const for static values for example a serverUrl for prevent any change.
+
+use final for save a `DateTime.now()`, so this work.
