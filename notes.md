@@ -46,3 +46,17 @@ creating a calculator
 use const for static values for example a serverUrl for prevent any change.
 
 use final for save a `DateTime.now()`, so this work.
+
+## Choose good variable names
+
+descripte names
+
+use camelCase
+
+## Let's install dart and vscode
+
+install dart extension
+
+## Dynamic type
+
+not use dynamic keyword instead. use the typing

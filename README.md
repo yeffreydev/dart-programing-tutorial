@@ -3,7 +3,7 @@
 - Author: Mahdi Mirzadeh
 - url: https://www.youtube.com/watch?v=c-ydMfJNfyY
 
-Progress: 14:22 / 7:09:46
+Progress: 36:48 / 7:09:46
 
 TODOS
 
@@ -11,10 +11,14 @@ TODOS
 - [x] Dartpad.dev & mathematical
 - [x] Variables
 - [x] const & final
-- [ ] Choose good names!
-- [ ] Let's install dart and vscode
-- [ ] Dynamic type
-- [ ] Type Conversion
+- [x] Choose good names!
+- [x] Let's install dart and vscode
+
+### 4
+
+- [x] Dynamic type
+- [x] Type Conversion
+
 - [ ] Casting
 - [ ] String
 - [ ] String Concatenation
