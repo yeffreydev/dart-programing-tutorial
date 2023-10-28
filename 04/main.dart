@@ -14,7 +14,12 @@ void main() {
 
   // double age2 = age.toDouble();
 
-  double age = 20.5;
-  int age2 = age.toInt();
+  // double age = 20.5;
+  // int age2 = age.toInt();
+  // print(age2);
+
+  //CASTING
+  num age = 20;
+  int age2 = age as int; //casting
   print(age2);
 }

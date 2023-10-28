@@ -3,7 +3,7 @@
 - Author: Mahdi Mirzadeh
 - url: https://www.youtube.com/watch?v=c-ydMfJNfyY
 
-Progress: 36:48 / 7:09:46
+Progress: 2:02:33 / 7:09:46
 
 TODOS
 
@@ -18,25 +18,57 @@ TODOS
 
 - [x] Dynamic type
 - [x] Type Conversion
+- [x] Casting
 
-- [ ] Casting
-- [ ] String
-- [ ] String Concatenation
-- [ ] String Interpolation
-- [ ] Multiline String
-- [ ] Let's review what we learn (1)
-- [ ] Practice (1)
-- [ ] Bool & Relational Operators
-- [ ] Control flow - if
-- [ ] Let's review what we learn (2)
-- [ ] Conditional Operator
-- [ ] Switch Statement
-- [ ] Dart 3 & switch statemetn!
-- [ ] Example with swtich statement
-- [ ] Enums
-- [ ] Pracice (2)
-- [ ] Loops!:while & do while
-- [ ] Loops!:for
+### 5
+
+- [x] String
+- [x] String Concatenation
+- [x] String Interpolation
+- [x] Multiline String
+
+### 6
+
+- [x] Let's review what we learn (1)
+
+### 7
+
+- [x] Practice (1)
+- [x] Bool & Relational Operators
+
+## 8
+
+- [x] Control flow - if
+
+## 9
+
+- [x] Let's review what we learn (2)
+
+## 10
+
+- [x] Conditional Operator
+
+## 11
+
+- [x] Switch Statement
+- [x] Dart 3 & switch statement!
+- [x] Example with swtich statement
+- [x] Enums
+
+## 12
+
+- [ ] Practice (2): Create a Programa that take weather: depend that show one line about that weather.
+
+## 13
+
+- [x] Loops!:while & do while
+
+## 14
+
+- [x] Loops!:for
+
+## 15
+
 - [ ] Let's review what we learn (3)
 - [ ] functions
 - [ ] Clases
