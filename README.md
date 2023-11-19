@@ -3,7 +3,7 @@
 - Author: Mahdi Mirzadeh
 - url: https://www.youtube.com/watch?v=c-ydMfJNfyY
 
-Progress: 2:02:33 / 7:09:46
+Progress: 2:30:18 / 7:09:46
 
 TODOS
 
@@ -69,9 +69,16 @@ TODOS
 
 ## 15
 
-- [ ] Let's review what we learn (3)
-- [ ] functions
-- [ ] Clases
+- [x] Let's review what we learn (3)
+
+## 16
+
+- [x] functions
+
+## 17
+
+- [ ] Class
+
 - [ ] Encapsulation
 - [ ] Null Safety
 - [ ] Constructor
